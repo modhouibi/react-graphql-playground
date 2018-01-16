@@ -1,0 +1,15 @@
+{
+
+    "users":[
+        {"id":"22","firstName":"mo","age":32,"companyId":"1"},
+        {"id":"23","firstName":"go","age":33,"companyId":"2"},
+        {"id":"24","firstName":"fo","age":34,"companyId":"2"},
+        {"id":"25","firstName":"bo","age":35,"companyId":"1"}
+    
+    ],
+
+    "companies":[
+        {"id":"1","name":"apple","description":"iphone"},
+        {"id":"2","name":"google","description":"search"}
+    ]
+}
